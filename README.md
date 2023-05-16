@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Adding a course<br>📚 live lesson creation<br>🎯 See students' homework<br>🎲 The key to success</p>
+<p align="center">✨ Adding a course<br>📚 live lesson creation<br>🎯 See students' homework<br>🔑 The key to success</p>
 
 ###
 
