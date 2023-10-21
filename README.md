@@ -28,4 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
 </div>
 
+<img src="./teacher_homework.png"   />
+<img src="./teacher_live.png"   />
+<img src="./students_homework.png"   />
+<img src="./students_live.png"   />
+
 ###
